@@ -4,16 +4,6 @@ This is a text-based adventure game played through the command line. Inspired by
 
 ---
 
-## 📚 Table of Contents
-
-- [Game Summary](#game-summary)  
-- [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Setup](#setup)  
-- [How to Play](#how-to-play)
-
----
-
 ## 🎮 Game Summary
 
 You take on the role of a character trapped in a haunted mansion filled with hidden rooms, roaming monsters, and scattered Scooby Snacks. Each move can lead to a reward or a scare. Collect snacks to stay brave and find the exit before you run out of courage.
